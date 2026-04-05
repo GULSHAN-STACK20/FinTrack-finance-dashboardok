@@ -3,6 +3,12 @@
 ## Project Overview
 FinTrack is a finance dashboard designed to help users track their financial activities, visualize spending habits, and manage budgets efficiently. This project aims to provide an intuitive user interface and robust features that cater to both individuals and businesses to maintain their financial health.
 
+## Live Demo
+
+Check out the live version of the project here:
+FinTrack Live Demo https://file-structure-converter--gulshankotiya20.replit.app/
+
+
 ## Features
 - **User Authentication:** Secure login and registration for users.
 - **Dashboard Overview:** Key financial metrics at a glance, including total income, expenses, and balance.
@@ -53,4 +59,8 @@ The FinTrack project was built using the MERN stack (MongoDB, Express, React, No
 ## Conclusion
 FinTrack aims to be a comprehensive solution for personal and professional finance management. With a user-centric design and a suite of features, it empowers users to take control of their financial lives.
 
+## Author / Contact
+
+Gulshan Kotiya
+Email: Gulshankotiya20@gmail.com
 Feel free to contribute and enhance the project!
